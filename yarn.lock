@@ -12219,3 +12219,20 @@ yocto-queue@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
+
+"zingchart-constants@github:zingchart/zingchart-constants#master":
+  version "1.0.2"
+  resolved "https://codeload.github.com/zingchart/zingchart-constants/tar.gz/f0837cf14bee991ac78516fd73f47a0f4b611e8b"
+
+zingchart-react@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/zingchart-react/-/zingchart-react-3.1.0.tgz#a394264ad316402cdd48679c031161510aabca4c"
+  integrity sha512-emVB4wEmyR9TlZV1LzksSZ+NwG6voroDqJaMTbOpLF5JDSw/nppf4HWn4rLgQYsdb6uizEp2Pacqj+IXhFZtKg==
+  dependencies:
+    zingchart latest
+    zingchart-constants "github:zingchart/zingchart-constants#master"
+
+zingchart@^2.9.7, zingchart@latest:
+  version "2.9.7"
+  resolved "https://registry.yarnpkg.com/zingchart/-/zingchart-2.9.7.tgz#887446330f2f5571c9d1bcc240c5cbd8fcfd2a13"
+  integrity sha512-kNOBDjaIDcjnPjhM30XLRQpadXzlpUP3ko6VFAVKMx2r+WVTj6HNBL+IgHspYPq4OncpcxRLs4+2xdADDP8bIA==
